@@ -7,6 +7,6 @@ public class VariableTypes {
         double price = 1999.99;
         boolean truth = true;
         boolean falsness = !truth;
-        
+
     }
 }
